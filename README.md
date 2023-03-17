@@ -1,0 +1,1 @@
+# pro28_file_upload_download_thumbnail-is-available
